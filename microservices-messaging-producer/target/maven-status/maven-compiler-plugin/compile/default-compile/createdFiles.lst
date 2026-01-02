@@ -1,0 +1,5 @@
+oussama\microservices\messaging\domain\User.class
+oussama\microservices\messaging\MessagingApplication.class
+oussama\microservices\messaging\controller\ProducerController.class
+oussama\microservices\messaging\service\ProducerService.class
+oussama\microservices\messaging\config\RabbitMQConfig.class

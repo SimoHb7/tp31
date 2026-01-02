@@ -1,0 +1,4 @@
+com\oussama\rabbitmicro\CustomMessage.class
+com\oussama\rabbitmicro\MessageListener.class
+com\oussama\rabbitmicro\MQConfig.class
+com\oussama\rabbitmicro\SpringRabbitmqConsumerApplication.class

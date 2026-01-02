@@ -1,0 +1,5 @@
+oussama\microservices\messagingconsumer\repository\UserRepository.class
+oussama\microservices\messagingconsumer\domain\User.class
+oussama\microservices\messagingconsumer\config\RabbitMQConfig.class
+oussama\microservices\messagingconsumer\MessagingConsumerApplication.class
+oussama\microservices\messagingconsumer\service\ConsumerService.class
