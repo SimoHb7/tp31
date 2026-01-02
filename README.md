@@ -1,5 +1,7 @@
 # TP 31 : Microservices Spring Boot avec RabbitMQ
 
+<img width="953" height="463" alt="image" src="https://github.com/user-attachments/assets/b961092d-e5c1-41f8-8d11-d0d45687d572" />
+
 Ce projet contient deux mini-projets démontrant l'utilisation de RabbitMQ avec Spring Boot.
 
 ## Structure du projet
